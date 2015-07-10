@@ -2,7 +2,9 @@ Containerizing Analytics Pipelines with Docker
 ==============================================
 
 Jeff Walker
+
 Big Data Deep Analytics Portland Maine
+
 2015-07-09
 
 Useful links on data containers and loose coupling:
